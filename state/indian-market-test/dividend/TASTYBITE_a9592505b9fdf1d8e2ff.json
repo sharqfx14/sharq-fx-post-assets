@@ -1,0 +1,13 @@
+{
+  "category": "DIVIDEND",
+  "symbol": "TASTYBITE",
+  "company": "Tasty Bite Eatables Limited",
+  "purpose_raw": "Dividend - Rs 10 Per Share",
+  "record_date": "06-Aug-2026",
+  "ex_date": "06-Aug-2026",
+  "dedupe_key": "DIVIDEND|TASTYBITE|Dividend - Rs 10 Per Share|06-Aug-2026|06-Aug-2026",
+  "dedupe_hash": "a9592505b9fdf1d8e2ff",
+  "marked_at_ist": "2026-09-20T21:37:02.713740+05:30",
+  "instagram_media_id": null,
+  "image_url": null
+}
