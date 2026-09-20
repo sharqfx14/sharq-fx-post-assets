@@ -1,0 +1,24 @@
+SHARQ FX — FIRST REAL INSTAGRAM POST TEST
+
+1) In public repo: sharq-fx-post-assets
+   Add file -> Upload files
+   Upload the generated Forex JPG.
+
+2) Open the uploaded JPG on GitHub.
+   Click Raw / Download raw file.
+   Copy the direct public URL.
+   The URL should open only the image in a browser.
+
+3) In the private bot repo upload:
+   - instagram_publish_test.py
+   - .github/workflows/test_instagram_publish.yml
+
+4) Go to:
+   Actions -> Test Instagram Publish -> Run workflow
+
+5) Paste the direct public JPG URL into image_url.
+   Keep or edit the caption.
+   Run workflow.
+
+WARNING:
+Running this workflow publishes a REAL Instagram feed post to @shar_qfx.
